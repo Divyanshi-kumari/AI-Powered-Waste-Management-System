@@ -155,3 +155,24 @@ Git
 GitHub
 VS Code
 npm
+
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+The home page provides an overview of the AI-powered waste management platform and its main features.
+
+![WasteVision AI - Home Page](screenshots/home.png)
+
+### 🤖 AI Waste Classification
+
+Users can upload a waste image and receive an AI-generated classification with a confidence score.
+
+![WasteVision AI - Classification](screenshots/classification.png)
+
+### ♻️ Waste Disposal Guide
+
+The disposal guide provides category-specific information and recycling recommendations for different types of waste.
+
+![WasteVision AI - Waste Disposal Guide](screenshots/waste-guide.png)
